@@ -3,8 +3,9 @@ RENCANA BRANCH:
 - test branch 1
   * sub test 1
   * sub test 2
-   ^ v2 procedure 1
-   ^ v2 procedure 2
+   ^ procedure 1
+   ^ procedure 2
 - test branch 2
+  ^ procedure 1 
 - test branch 3
- ^ procedure 1
+- tambahan test branch 2
