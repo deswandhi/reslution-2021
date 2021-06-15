@@ -5,7 +5,6 @@ RENCANA BRANCH:
   * sub test 2
    ^ procedure 1
    ^ procedure 2
-- tambahan test branch 1
 - test branch 2
   ^ procedure 1 
 - test branch 3
